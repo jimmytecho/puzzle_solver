@@ -12,4 +12,4 @@
 將其中一塊拼圖「反白」，也就是將周圍塗黑，拼圖本身留白，並裁剪出一邊
 之後便可運用matchTemplate找出對應的拼圖塊。
 
-參考[附圖文件說明](https://github.com/jimmytecho/puzzle_solver/blob/master/puzzle%20solver%20%E7%A8%8B%E5%BC%8F%E8%AA%AA%E6%98%8E.docx)
+參考[附圖文件說明](https://github.com/jimmytecho/puzzle_solver/blob/master/puzzle%20solver%20%E7%A8%8B%E5%BC%8F%E8%AA%AA%E6%98%8E.pdf)
